@@ -1,2 +1,2 @@
 # docker-r-studio
- R application in a container
+ R-Studio in a container
